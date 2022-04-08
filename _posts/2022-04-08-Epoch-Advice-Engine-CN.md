@@ -11,12 +11,12 @@ article_header:
 ---
 
 # Some advice on engine basics
-- ÓÃ»§ÔÚ¶Ô½çÃæ½øÐÐ¿ØÖÆÊ±£¬¹â±êÇ¶Èë»á¸ü¼Ó·½±ã
-<img src = "https://raw.githubusercontent.com/Sugar0612/acmen-team.github.io/main/assets/images/Acmen/mouse.gif" width="500" alt="wechat">
-- ÔØÈëµÄÄ£ÐÍÔÚ×ø±êÏµµÄ×÷ÓÃÏÂ£¬Location£¬ Rotation, ScaleÓÐÏà¶ÔÓ¦µÄÏìÓ¦
-- ÐèÒªÌí¼ÓµÆ¹âÓëÌì¿ÕºÐ
-- "Camera Speed"ÔÚ²»ÓÃÓÃ»§ÔÚ²»Í¬µÄÇé¿öÐèÒª²»Í¬µÄ"Camera Speed"
-- ÉÏ·½²Ëµ¥À¸ Óë ContentµÄÍêÉÆ
+- ç”¨æˆ·åœ¨å¯¹ç•Œé¢è¿›è¡ŒæŽ§åˆ¶æ—¶ï¼Œå…‰æ ‡åµŒå…¥ä¼šæ›´åŠ æ–¹ä¾¿  
+<img src = "https://raw.githubusercontent.com/Sugar0612/acmen-team.github.io/master/assets/images/Acmen/mouse.gif" width="500" alt="wechat">  
+- è½½å…¥çš„æ¨¡åž‹åœ¨åæ ‡ç³»çš„ä½œç”¨ä¸‹ï¼ŒLocationï¼Œ Rotation, Scaleæœ‰ç›¸å¯¹åº”çš„å“åº”  
+- éœ€è¦æ·»åŠ ç¯å…‰ä¸Žå¤©ç©ºç›’  
+- "Camera Speed"åœ¨ä¸ç”¨ç”¨æˆ·åœ¨ä¸åŒçš„æƒ…å†µéœ€è¦ä¸åŒçš„"Camera Speed"  
+- ä¸Šæ–¹èœå•æ  ä¸Ž Contentçš„å®Œå–„  
 
-# Ïà¹ØÁ¬½Ó
+# ç›¸å…³è¿žæŽ¥
 GitHub:https://github.com/Acmen-Team/Epoch
